@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img src="./assets/Captura de Tela 2024-05-19 às 22.02.19.pngassets" width="100%">
+  <img src="assets/Tela .png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
